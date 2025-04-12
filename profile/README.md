@@ -14,12 +14,13 @@ Somos a equipe Onixx-IFPR-2025, trabalhando em projetos incríveis no IFPR! Aqui
 - [Galvão Veículos Front-End](https://github.com/Onixx-IFPR-2025/galvaoVeiculos-front-end): Interface para o projeto Galvão Veículos.
 - [Galvão Veículos Back-End](https://github.com/Onixx-IFPR-2025/galvaoVeiculos-back-end): API para o projeto Galvão Veículos.
 
-## Como Contribuir
-1. Escolha um repositório e explore as issues abertas.
-2. Crie pull requests para propor melhorias.
-3. Participe das [discussões](https://github.com/Onixx-IFPR-2025/discussions) para compartilhar ideias!
+## Desenvolvedores
+- [Claudir Fantuci](https://github.com/ClaudirFantuci)
+- [Daniele Fonseca](https://github.com/danisfon)
+- [Rafael Scarpelli](https://github.com/RafaelScarpelli)
+- [Rômulo Jordão](https://github.com/RomuloJB)
 
-## Entre em Contato
-Se precisar de ajuda, entre em contato com um administrador da organização.
-
+## Time de Gestão
+- [Ariel Machado](https://github.com/ArielMcR)
+- [Ali Osmar](https://github.com/aliosmarchehade)
 
