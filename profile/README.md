@@ -1,5 +1,5 @@
 
-<div style="text-align: center;">
+<div align="center">
   <img src="https://github.com/user-attachments/assets/6cd64bd1-0f29-4764-a748-9738f095d8b4" alt="Logo Onixx" width="150">
 </div>
 
